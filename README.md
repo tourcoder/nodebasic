@@ -18,7 +18,7 @@ Or pull image from the command line
 docker pull docker.pkg.github.com/tourcoder/nodebasic/nodebasic:latest
 ```
 
-### How to build nodebasic docker
+### How to build nodebasic docker image
 
 Download `Dockerfile` in this repo, and run
 
