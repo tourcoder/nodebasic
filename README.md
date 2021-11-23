@@ -8,17 +8,17 @@ The node docker file with basic functionality
 
 Use as base image in DockerFile
 
-```
-FROM docker.pkg.github.com/tourcoder/nodebasic/nodebasic:latest
-```
+- From Docker Hub
 
-Or pull image from the command line
+  ```
+  FROM tourcodercom/nodebasic
+  ```
 
-```
-docker pull docker.pkg.github.com/tourcoder/nodebasic/nodebasic:latest
-```
+- From GitHub 
 
-### How to build nodebasic docker image
+  ```
+  FROM docker.pkg.github.com/tourcoder/nodebasic/nodebasic:latest
+  ```
 
 Download `Dockerfile` in this repo, and run
 
