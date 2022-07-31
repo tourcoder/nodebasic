@@ -6,7 +6,7 @@ The node docker file with basic functionality
 
 ### How to use nodebasic
 
-Use as base image in DockerFile
+Use as base image in Dockerfile
 
 - From Docker Hub
 
@@ -28,4 +28,4 @@ docker build -t nodebasic .
 
 ### License
 
-MIT
+[MIT License](LICENSE)
