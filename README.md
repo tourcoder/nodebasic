@@ -7,7 +7,7 @@ The node docker file with basic functionality
 
 ![compare](https://user-images.githubusercontent.com/535675/182006100-8ba27fed-4817-48c5-8476-3da0f0464dd5.png)
 
-I found that even the alpine version of the node docker image is 166M, but NodeBasic is less than 55M.
+I found that even the alpine version of the node docker image is over 100M, but NodeBasic is less than 55M.
 
 ### How to use nodebasic
 
