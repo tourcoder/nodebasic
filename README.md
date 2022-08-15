@@ -16,7 +16,7 @@ Use as base image in Dockerfile
 - From Docker Hub
 
   ```
-  FROM tourcodercom/nodebasic
+  FROM tourcoder/nodebasic
   ```
 
 - From GitHub 
